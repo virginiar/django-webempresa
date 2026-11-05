@@ -42,3 +42,24 @@ pipenv run webempresa
 ```bash
 python manage.py startapp core
 ```
+
+## Creación de modelos
+- Creación de una aplicación
+```bash
+python manage.py startapp services
+```
+
+- Ejecución de la migración
+```bash
+python manage.py makemigrations
+```
+
+- Aplicación de la migración a la base de datos
+```bash
+python manage.py migrate
+```
+
+- Creación del superusuario
+```bash
+python manage.py createsuperuser
+```
