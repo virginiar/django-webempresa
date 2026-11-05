@@ -7,6 +7,7 @@ Conceptos utilizados:
 - Separando rutas en URLconf para cada aplicación
 - Fusionando el frontend y el backend
 - Resaltando la sección actual en la navegación
+- Sirviendo archivos multimedia
 
 ## Instalación con Pipenv
 - Instalación de paquetes
