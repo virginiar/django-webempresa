@@ -6,6 +6,7 @@ Conceptos utilizados:
 - Creación de aplicaciones para modularizar el proyecto
 - Separando rutas en URLconf para cada aplicación
 - Fusionando el frontend y el backend
+- Resaltando la sección actual en la navegación
 
 ## Instalación con Pipenv
 - Instalación de paquetes
