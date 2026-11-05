@@ -5,6 +5,7 @@ Basado en el curso [Curso Práctico de Django: Desarrollo Web Backend con Python
 Conceptos utilizados:
 - Creación de aplicaciones para modularizar el proyecto
 - Separando rutas en URLconf para cada aplicación
+- Fusionando el frontend y el backend
 
 ## Instalación con Pipenv
 - Instalación de paquetes
