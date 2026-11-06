@@ -8,6 +8,7 @@ Conceptos utilizados:
 - Fusionando el frontend y el backend
 - Resaltando la sección actual en la navegación
 - Sirviendo archivos multimedia
+- Relaciones entre modelos
 
 ## Instalación con Pipenv
 - Instalación de paquetes
