@@ -9,6 +9,13 @@ Conceptos utilizados:
 - Resaltando la sección actual en la navegación
 - Sirviendo archivos multimedia
 - Relaciones entre modelos
+- Personalizando el administrador:
+  - Columnas a mostrar
+  - Orden
+  - Campos de búsqueda
+  - Jerarquía de fechas
+  - Filtros
+  - Campos personalizados
 
 ## Instalación con Pipenv
 - Instalación de paquetes
