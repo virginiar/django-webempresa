@@ -21,6 +21,7 @@ Conceptos utilizados:
   - Gestión de errores con accesor get_object_or_404
   - Uso de related_name en relaciones ManyToMany para búsquedas inversas
   - Uso de slice
+  - Procesadores de contexto
 
 ## Instalación con Pipenv
 - Instalación de paquetes
