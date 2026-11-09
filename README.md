@@ -16,6 +16,7 @@ Conceptos utilizados:
   - Jerarquía de fechas
   - Filtros
   - Campos personalizados
+  - Template tags date y linebreaks
 
 ## Instalación con Pipenv
 - Instalación de paquetes
