@@ -11,7 +11,7 @@ class Link(models.Model):
         auto_now=True, verbose_name="Fecha de edición")
 
     class Meta:
-        verbose_name = "enlaces"
+        verbose_name = "enlace"
         verbose_name_plural = "enlaces"
         ordering = ["-name"]
 
