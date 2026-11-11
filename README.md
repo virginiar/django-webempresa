@@ -16,12 +16,13 @@ Conceptos utilizados:
   - Jerarquía de fechas
   - Filtros
   - Campos personalizados
-  - Template tags date y linebreaks
-  - Parámetros dinámicos
-  - Gestión de errores con accesor get_object_or_404
-  - Uso de related_name en relaciones ManyToMany para búsquedas inversas
-  - Uso de slice
-  - Procesadores de contexto
+- Template tags date y linebreaks
+- Parámetros dinámicos
+- Gestión de errores con accesor get_object_or_404
+- Uso de related_name en relaciones ManyToMany para búsquedas inversas
+- Uso de slice
+- Procesadores de contexto
+- Template tags propios
 
 ## Instalación con Pipenv
 - Instalación de paquetes
