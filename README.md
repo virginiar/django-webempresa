@@ -16,6 +16,7 @@ Conceptos utilizados:
   - Jerarquía de fechas
   - Filtros
   - Campos personalizados
+  - Editor WYSIWYG: Ckeditor
 - Template tags date y linebreaks
 - Parámetros dinámicos
 - Gestión de errores con accesor get_object_or_404
