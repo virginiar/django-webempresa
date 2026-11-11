@@ -4,6 +4,7 @@ from django.db import models
 class Page(models.Model):
     title = models.CharField(max_length=100, verbose_name="Título")
     content = models.TextField(verbose_name="Contenido")
+    order = models.SmallIntegerField(default=0, verbose_name="Orden")
     created = models.DateTimeField(
         auto_now_add=True, verbose_name="Fecha de creación")
     updated = models.DateTimeField(
@@ -12,7 +13,7 @@ class Page(models.Model):
     class Meta:
         verbose_name = "página"
         verbose_name_plural = "páginas"
-        ordering = ["-title"]
+        ordering = ["order", "-title"]
 
     def __str__(self):
         return self.title

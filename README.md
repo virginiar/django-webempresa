@@ -23,6 +23,8 @@ Conceptos utilizados:
 - Uso de slice
 - Procesadores de contexto
 - Template tags propios
+- Orden manual de campos
+- Edición directa de páginas
 
 ## Instalación con Pipenv
 - Instalación de paquetes
