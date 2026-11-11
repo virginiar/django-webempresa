@@ -26,6 +26,7 @@ Conceptos utilizados:
 - Template tags propios
 - Orden manual de campos
 - Edición directa de páginas
+- Formularios
 
 ## Instalación con Pipenv
 - Instalación de paquetes
