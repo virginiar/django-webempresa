@@ -23,6 +23,12 @@
                 </b></p>
               {% endif %}
 
+              {% if 'fail' in request.GET %}
+                <p><b>
+                  Su mensaje no se ha podido enviar, intentelo más tarde.
+                </b></p>
+              {% endif %}
+
               <form action="" method="POST">
                   {% csrf_token %}
                   <div class="form-group">

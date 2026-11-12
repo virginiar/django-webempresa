@@ -29,6 +29,7 @@ Conceptos utilizados:
 - Formularios
   - Procesado y validación
   - Aplicando formato a los formularios
+  - Enviando correos electrónicos de prueba
 
 ## Instalación con Pipenv
 - Instalación de paquetes
