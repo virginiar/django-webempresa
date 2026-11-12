@@ -27,6 +27,7 @@ Conceptos utilizados:
 - Orden manual de campos
 - Edición directa de páginas
 - Formularios
+  - Procesado y validación
 
 ## Instalación con Pipenv
 - Instalación de paquetes
