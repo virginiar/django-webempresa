@@ -28,6 +28,7 @@ Conceptos utilizados:
 - Edición directa de páginas
 - Formularios
   - Procesado y validación
+  - Aplicando formato a los formularios
 
 ## Instalación con Pipenv
 - Instalación de paquetes
