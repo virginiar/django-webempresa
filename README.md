@@ -17,6 +17,7 @@ Conceptos utilizados:
   - Filtros
   - Campos personalizados
   - Editor WYSIWYG: Ckeditor
+  - Grupos y permisos de usuario
 - Template tags date y linebreaks
 - Parámetros dinámicos
 - Gestión de errores con accesor get_object_or_404
