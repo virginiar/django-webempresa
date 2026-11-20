@@ -35,7 +35,7 @@ Conceptos utilizados:
 ## Instalación con Pipenv
 - Instalación de paquetes
 ```bash
-pipenv install django django-ckeditor Pillow pylint pylint-django pylint-celery
+pipenv install django django-ckeditor-5 Pillow pylint pylint-django pylint-celery
 ```
 
 - Creación del proyecto

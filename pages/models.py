@@ -1,10 +1,10 @@
 from django.db import models
-from ckeditor.fields import RichTextField
+from django_ckeditor_5.fields import CKEditor5Field
 
 # Create your models here.
 class Page(models.Model):
     title = models.CharField(max_length=100, verbose_name="Título")
-    content = RichTextField(verbose_name="Contenido")
+    content = CKEditor5Field(verbose_name="Contenido", config_name='extends')
     order = models.SmallIntegerField(default=0, verbose_name="Orden")
     created = models.DateTimeField(
         auto_now_add=True, verbose_name="Fecha de creación")
